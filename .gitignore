@@ -1,0 +1,5 @@
+virtual/
+tests/
+__pycache__/
+ToDo
+*.ai

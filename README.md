@@ -45,3 +45,5 @@ Currently, all mosaic pieces are resized to the same dimensions. This means that
 ## Links
 
 * Free portrait images - https://unsplash.com/de/s/fotos/portrait
+
+* Article about the process - https://link.medium.com/nsaQm0V3AAb

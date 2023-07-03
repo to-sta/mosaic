@@ -3,6 +3,7 @@
 import os
 import random
 import uuid
+from typing import Optional
 from pathlib import Path
 from math import ceil
 import cv2 as cv
@@ -22,7 +23,7 @@ def generate_mosaic(
     mosaic_images_path: str,
     desired_height: int,
     desired_width: int,
-    filetyp: str = "png",
+    filetyp: Optional[str] = "png",
 ) -> None:
     """
     Generate a mosaic picture.
